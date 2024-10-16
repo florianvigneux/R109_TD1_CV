@@ -1,1 +1,11 @@
-@font-face
+@import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body
+{
+    font-family: "Nunito", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70em;
+    background-image: url("../images/css-pattern-by-magicpattern.png");
+    background-size: 23%;
+}
